@@ -6,7 +6,6 @@
 [![GitHub forks][forks-image]][forks-url]
 [![GitHub issues][issues-image]][issues-image]
 [![npm download][download-image]][download-url]
-[![HitCount][hits-image]][hits-url]
 
 
 [license-image]: https://img.shields.io/github/license/saucxs/watermark-dom.svg
